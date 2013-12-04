@@ -1,0 +1,17 @@
+As a business owner,
+I want to distinguish between my quota salespeople and my commission salespeople
+so that I can pay them accordingly
+
+*distinguish between commission and quota salespeople.
+
+As a business owner,
+I want to figure out how much of income to withhold from my employees
+so that I can avoid getting in trouble
+
+*calculate withholdings according to regulations
+
+As a business owner,
+I want to determine how much I should pay my employees based on the existing agreements
+so that I can keep up with my obligations
+
+*records employees' salaries and compensation agreements.

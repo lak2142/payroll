@@ -1,0 +1,9 @@
+name,job_description,base_salary,commission_%,quota,quota_bonus
+Johnny Smith,developer,80000,0,0,0
+Jimmy McMahon,developer,85000,0,0,0
+Bob Lob,commission,50000,0.005,0,0
+Ricky Bobby,commission,40000,0.015,0,0
+Edna Krabappel,designer,87000,0,0,0
+Willie Groundskeeper,quota,75000,0,60000,5000
+Clancy Wiggum,quota,80000,0,80000,10000
+Charles Burns,owner,500000,0,0,0
